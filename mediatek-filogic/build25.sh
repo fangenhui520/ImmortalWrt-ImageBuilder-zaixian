@@ -63,7 +63,7 @@ PACKAGES="$PACKAGES kmod-fs-exfat"
 PACKAGES="$PACKAGES kmod-fs-ext4"
 PACKAGES="$PACKAGES kmod-fs-vfat"
 PACKAGES="$PACKAGES ddns-scripts-cloudflare"
-PACKAGES="$PACKAGES xray-core"
+#PACKAGES="$PACKAGES xray-core"
 
 
 # 第三方软件包 合并
